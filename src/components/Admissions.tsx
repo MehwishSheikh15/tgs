@@ -62,7 +62,7 @@ const Admissions = () => {
 
             <div className="relative hidden lg:block">
               <img 
-                src="https://picsum.photos/seed/happy-students/1000/1200" 
+                src="Admission.jpg" 
                 alt="Happy Students" 
                 className="absolute inset-0 w-full h-full object-cover"
                 referrerPolicy="no-referrer"

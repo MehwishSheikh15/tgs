@@ -4,7 +4,7 @@ import { motion } from 'motion/react';
 const Gallery = () => {
   const photos = [
     {
-      url: 'https://picsum.photos/seed/school-exterior/800/600',
+      url: 'building.jpg',
       caption: 'School Exterior',
       category: 'Campus',
     },
