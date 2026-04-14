@@ -35,7 +35,7 @@ const Navbar = () => {
           <div className="flex items-center gap-3">
             <div className="w-14 h-14 bg-white rounded-full flex items-center justify-center p-0.5 shadow-lg border-2 border-accent/20">
                 <img 
-                  src="tgs-logo.png" 
+                  src="./tgs-logo.png" 
                   alt="Logo" 
                   className="w-full h-full rounded-full object-contain"
                   referrerPolicy="no-referrer"
