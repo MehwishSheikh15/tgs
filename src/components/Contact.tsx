@@ -38,7 +38,6 @@ const Contact = () => {
                 <div>
                   <h4 className="font-bold text-xl mb-1">Call Us</h4>
                   <p className="text-slate-600">+92 341 2046638</p>
-                  <p className="text-slate-600">0336-2131216</p>
                 </div>
               </div>
 
@@ -49,7 +48,7 @@ const Contact = () => {
                 <div>
                   <h4 className="font-bold text-xl mb-1">School Hours</h4>
                   <p className="text-slate-600">Monday - Thursday: 8:00 AM - 1:30 PM</p>
-                  <p className="text-slate-600">Friday: 8:00 AM - 12:00 PM</p>
+                  <p className="text-slate-600">Friday: 8:00 AM - 12:30 PM</p>
                 </div>
               </div>
             </div>
@@ -84,7 +83,7 @@ const Contact = () => {
                 </button>
               </div>
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3617.433246754326!2d66.992!3d24.95!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDU3JzAwLjAiTiA2NsKwNTknMzEuMiJF!5e0!3m2!1sen!2s!4v1620000000000!5m2!1sen!2s" 
+                src="https://www.google.com/maps/place/The+Grammar+School/@24.9357094,67.0509272,17z/data=!3m1!4b1!4m6!3m5!1s0x3eb33f70b7b5df65:0xcb270d30d5028416!8m2!3d24.9357094!4d67.0509272!16s%2Fg%2F11j4ms690d?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 

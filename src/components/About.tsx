@@ -52,7 +52,7 @@ const About = () => {
           >
             <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl">
               <img 
-                src="building.jpg" 
+                src="./building.jpg" 
                 alt="The Grammar School Building" 
                 className="w-full h-auto object-cover"
                 referrerPolicy="no-referrer"

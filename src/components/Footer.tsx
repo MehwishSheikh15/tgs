@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="flex items-center gap-3 mb-6">
               <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center p-1 shadow-md">
                 <img 
-                  src="tgs-logo.png" 
+                  src="./tgs-logo.png" 
                   alt="Logo" 
                   className="w-full h-full rounded-full"
                   referrerPolicy="no-referrer"

@@ -4,7 +4,7 @@ import { motion } from 'motion/react';
 const Gallery = () => {
   const photos = [
     {
-      url: 'building.jpg',
+      url: './building.jpg',
       caption: 'School Exterior',
       category: 'Campus',
     },
